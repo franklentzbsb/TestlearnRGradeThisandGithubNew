@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Square root
 
+a first test
+
 ### Exercise 
 
 *Here's a simple exercise with an empty code chunk provided for entering the answer.*
